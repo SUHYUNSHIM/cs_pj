@@ -1,6 +1,5 @@
 package com.example.cs.injection.ex2;
 
-import com.example.cs.injection.ex1.KoreaTire;
 import com.example.cs.injection.ex1.Tire;
 
 public class Car {
